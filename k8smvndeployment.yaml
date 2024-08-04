@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: dutt1/4app
+        image: dutt1/4app:latest
         ports:
         - containerPort: 8080
 ---
