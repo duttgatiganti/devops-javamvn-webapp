@@ -1,3 +1,3 @@
-def call(){
-   sh 'Hello sh1.2'
+def ws(){
+   cleanWs()
 }
